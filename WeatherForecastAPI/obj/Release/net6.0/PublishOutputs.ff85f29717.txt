@@ -1,0 +1,11 @@
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\WeatherForecastAPI.exe
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\WeatherForecastAPI.dll
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\WeatherForecastAPI.deps.json
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\WeatherForecastAPI.runtimeconfig.json
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\WeatherForecastAPI.pdb
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ibayd\source\repos\WeatherForecastAPI\WeatherForecastAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
